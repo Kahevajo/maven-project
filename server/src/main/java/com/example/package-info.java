@@ -1,4 +1,4 @@
 /**
- * Random comment
+ * Random comment.
  */
 package com.example;
